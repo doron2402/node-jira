@@ -23,7 +23,7 @@
     }
   ],
   "dependencies": {
-    "request": "<2.16.0",
+    "request": "2.88.2",
     "oauth": "^0.9.11"
   },
   "scripts": {
